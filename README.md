@@ -30,13 +30,13 @@ and this is how it looks like in the simulator: [Video](https://youtu.be/mlQSoZb
 In the following plot you can see the cte (cross-track-error) and the steering angle (total_error) when using Kp=0.1 and Kd=0.9
 ![propotional and differential](./media/kp_0p1_kd_0p9_30mph.png "propotional and differential")
 
-and this is how it looks like in the simulator: [Video](./media/kp_0p1_kd_0p9_30mph.mp4?raw=true)
+and this is how it looks like in the simulator: [Video](https://youtu.be/6dcxbyDnxWM)
 
 ---------
 In the following plot you can see the cte (cross-track-error) and the steering angle (total_error) when using Kp=0.1, Kd=0.9 and Ki=0.005
 ![final pid](./media/kp_0p1_kd_0p9_ki_0.005_30mph.png "final pid")
 
-and this is how it looks like in the simulator: [Video](./media/kp_0p1_kd_0p9_ki_0.005_30mph.m4v?raw=true)
+and this is how it looks like in the simulator: [Video](https://youtu.be/r4Cwhl_5LUQ)
 
 #### Describe how the final hyperparameters were chosen.
 
