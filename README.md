@@ -22,7 +22,7 @@ The following graphs and videos show the effect of different hyperparameter valu
 
 ---------
 In the following plot you can see the cte (cross-track-error) and the steering angle (total_error) when using Kp=0.1
-![propotional only](./media/kp_0p1_30mph.png "propotional only")
+![propotional only](https://youtu.be/mlQSoZbIjsY "propotional only")
 
 and this is how it looks like in the simulator: [Video](./media/kp_0p1_30mph.mp4?raw=true)
 
