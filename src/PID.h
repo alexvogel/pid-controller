@@ -13,9 +13,13 @@ public:
   /*
   * Coefficients
   */ 
-  double Kp;
-  double Kd;
-  double Ki;
+  double Kp_;
+  double Kd_;
+  double Ki_;
+
+  int n_;
+
+  int averageError_;
 
   /*
   * Constructor
